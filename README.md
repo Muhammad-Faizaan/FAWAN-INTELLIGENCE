@@ -1,8 +1,10 @@
-# FΛWΛN INTELLIGENCE | The Foundational Lattice
+# FΛWΛN INTELLIGENCE | AI Foundational Lattice
 
+<p align="center">
+  <img src="https://fawan-intelligence-ai.edgeone.app/logo.png" alt="FAWAN-Logo" width="400">
+</p>
 
-
-**Synthetic-weaving hyper-scale, edge-optimized neural substrates to catalyze the 2026+ transition into post-autonomous cognitive systems.**
+> **"Synthetic-weaving hyper-scale, edge-optimized neural substrates to catalyze the 2026+ transition into post-autonomous cognitive systems."**
 
 ---
 
@@ -21,9 +23,10 @@ FΛWΛN INTELLIGENCE is architected to supersede legacy automation. By deploying
 - **Security:** Layer-7 Autonomous Defense
 
 ## 📂 Repository Contents
-- `/core`: Foundational neural logic.
+- `/core`: Foundational neural logic scripts.
 - `/legal`: Terms of Intelligence and alignment standards.
-- `/assets`: Brand DNA and Media Kit.
+- `/assets`: Brand DNA, logos, and Media Kit.
 
 ---
-[Visit Official Deployment](https://fawan-intelligence-ai.edgeone.app/)
+**Founder:** [Muhammad Faizaan](https://github.com/Muhammad-Faizaan)  
+**Deployment:** [fawan-intelligence-ai.edgeone.app](https://fawan-intelligence-ai.edgeone.app/)
