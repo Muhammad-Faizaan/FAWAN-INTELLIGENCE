@@ -1,7 +1,7 @@
 # FΛWΛN INTELLIGENCE | AI Foundational Lattice
 
 <p align="center">
-  <img src="https://fawan-intelligence-ai.edgeone.app/logo.png" alt="FAWAN-Logo" width="400">
+  <img src="https://img.sanishtech.com/u/623b8169321903547b9a0aa94e23e9b2.jpg" alt="FAWAN-Logo" width="">
 </p>
 
 > **"Synthetic-weaving hyper-scale, edge-optimized neural substrates to catalyze the 2026+ transition into post-autonomous cognitive systems."**
