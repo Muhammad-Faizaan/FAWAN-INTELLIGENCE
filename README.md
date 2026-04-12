@@ -29,7 +29,7 @@ FΛWΛN INTELLIGENCE is architected to supersede legacy digital discovery. By de
 
 ---
 **Founder & Architect:** [Muhammad Faizaan Awan](https://github.com/Muhammad-Faizaan)  
-**Main Command Node:** [fawan-intelligence-ai.edgeone.app](https://fawan-intelligence-ai.edgeone.app/)  
+**Main Command Node:** [fawan-intelligence-agi.edgeone.app](https://fawan-intelligence-agi.edgeone.app/)  
 **LinkedIn Authority:** [FΛWΛN INTELLIGENCE Node](https://www.linkedin.com/in/fawan-intelligence-ai/)
 
 ---
